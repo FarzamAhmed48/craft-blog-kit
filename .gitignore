@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Build output (generated via npm run build)
+dist/
+
+# Logs & caches
+*.log
+npm-debug.log*
+.tsbuildinfo
+*.tsbuildinfo
+
+# Environment variables
+.env
+.env.*
+
+# Editor & OS files
+.vscode/
+.DS_Store
+Thumbs.db
